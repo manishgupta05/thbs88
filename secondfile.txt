@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+this is second file.
+=======
+hello, this is second file of day2.
+>>>>>>> parent of 2833787 (freshcommit2)
